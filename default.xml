@@ -1,0 +1,7 @@
+<manifest>
+<remote name="itstamil" fetch="https://github.com/itstamil/"/>
+<default revision="refs/heads/master" remote="itstamil" sync-j="4"/>
+<project name="scripts" remote="itstamil" path="scripts.git"/>
+<project name="perl_code" remote="itstamil" path="perl_code.git"/>
+</manifest>
+
